@@ -5,8 +5,7 @@
 **Team Name:** Rentique Team
 
 ## Team Members & Roles
-
-1. Gabriel Opeña — Project Lead
+1. Gabriel Opeña — Project Lead / Git Manager
 2. Cristine Fallaria — Documenter
 3. Rey Ballesteros — Diagrammer
 4. Mauro Mendoza — Presenter
